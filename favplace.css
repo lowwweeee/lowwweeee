@@ -1,0 +1,603 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+    overflow: hidden;
+  }
+  li {
+    float: right;
+  }
+  li a {
+    display:grid;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    text-decoration:white;
+    font-family: 'Segoe UI';
+    position:sticky;
+  }
+  .mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1920px;
+    height: 4976px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Group_3 {
+    position: absolute;
+    width: 1920px;
+    height: 5127px;
+    left: 0px;
+    top: 21px;
+    overflow: visible;
+}
+#Image_7 {
+    position: absolute;
+    width: 1920px;
+    height: 853px;
+    left: 0px;
+    top: 104px;
+    overflow: visible;
+}
+#Rectangle_1 {
+    fill: rgba(200,185,162,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 4955px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_9 {
+    fill: rgba(200,185,162,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 4955px;
+    left: 0px;
+    top: 172px;
+}
+#Rectangle_2 {
+    fill: rgba(154,187,195,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 4955px;
+    left: 0px;
+    top: 0px;
+}
+#Address__Patar_Beach_Bolinao_P {
+    left: 40px;
+    top: 4706px;
+    position: absolute;
+    overflow: visible;
+    width: 705px;
+    height: 163px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,240,1);
+}
+#G_Beach_Resort_are_at_the_edge {
+    left: 79px;
+    top: 4529px;
+    position: absolute;
+    overflow: visible;
+    width: 628px;
+    height: 300px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(243,247,234,1);
+}
+#Image_12 {
+    position: absolute;
+    width: 470px;
+    height: 470px;
+    left: 106px;
+    top: 3376px;
+    overflow: visible;
+}
+#LRM_EXPORT_310628043637496_201 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Patar_Beach_Bolinao_Pangasinan {
+    left: 791px;
+    top: 390px;
+    position: absolute;
+    overflow: hidden;
+    width: 396px;
+    height: 115px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(245,245,245,1);
+}
+#GBeach_Resort__ {
+    left: 634px;
+    top: 315px;
+    position: absolute;
+    overflow: hidden;
+    width: 710px;
+    height: 225px;
+    text-align: center;
+    font-family: Sitka Small;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(245,245,245,1);
+}
+#THE_BEST_PLACE_TO_UNWIND {
+    left: 1534px;
+    top: 497px;
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 86px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+    fill: rgba(230,217,217,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#Louie_James_T_Sabularse {
+    left: -84px;
+    top: 35px;
+    position: absolute;
+    overflow: visible;
+    width: 671px;
+    height: 35px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(112,112,112,1);
+}
+#INMEDIA {
+    left: 785px;
+    top: 35px;
+    position: absolute;
+    overflow: visible;
+    width: 351px;
+    height: 35px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(112,112,112,1);
+}
+#BSIT-202 {
+    left: 1602px;
+    top: 35px;
+    position: absolute;
+    overflow: visible;
+    width: 284px;
+    height: 35px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(112,112,112,1);
+}
+#Group_4 {
+    position: absolute;
+    width: 2351px;
+    height: 1402px;
+    left: -238px;
+    top: 1258px;
+    overflow: visible;
+}
+#Image_11 {
+    position: absolute;
+    width: 823px;
+    height: 463px;
+    left: 20px;
+    top: 0px;
+    overflow: visible;
+}
+#Image_9 {
+    position: absolute;
+    width: 817px;
+    height: 461px;
+    left: 836px;
+    top: 1px;
+    overflow: visible;
+}
+#Image_8 {
+    position: absolute;
+    width: 817px;
+    height: 461px;
+    left: 1534px;
+    top: 2px;
+    overflow: visible;
+}
+#LRM_EXPORT_312018663400825_201 {
+    position: absolute;
+    width: 627px;
+    height: 470px;
+    left: 1541px;
+    top: 463px;
+    overflow: visible;
+}
+#LRM_EXPORT_311527862957671_201 {
+    position: absolute;
+    width: 836px;
+    height: 470px;
+    left: 0px;
+    top: 462px;
+    overflow: visible;
+}
+#LRM_EXPORT_311160433040539_201 {
+    position: absolute;
+    width: 705px;
+    height: 470px;
+    left: 833px;
+    top: 463px;
+    overflow: visible;
+}
+#LRM_EXPORT_336478374837713_201 {
+    position: absolute;
+    width: 822px;
+    height: 464px;
+    left: 822px;
+    top: 933px;
+    overflow: visible;
+}
+#LRM_EXPORT_312118535724768_201 {
+    position: absolute;
+    width: 701.109px;
+    height: 469px;
+    left: 1546px;
+    top: 933px;
+    overflow: visible;
+}
+#LRM_EXPORT_311931950150317_201 {
+    position: absolute;
+    width: 831px;
+    height: 469px;
+    left: 5px;
+    top: 932px;
+    overflow: visible;
+}
+#Group_5 {
+    position: absolute;
+    width: 1950px;
+    height: 1409px;
+    left: -30px;
+    top: 1251px;
+    overflow: visible;
+}
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(251,244,244,1);
+    stroke-width: 15px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1950.039px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_4 {
+    overflow: visible;
+    position: absolute;
+    width: 19px;
+    height: 1408.064px;
+    left: 1328px;
+    top: 1px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_5 {
+    overflow: visible;
+    position: absolute;
+    width: 10px;
+    height: 1401px;
+    left: 627.5px;
+    top: 7.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#Image_13 {
+    position: absolute;
+    width: 644px;
+    height: 591px;
+    left: 106px;
+    top: 3943px;
+    overflow: visible;
+}
+#Image_14 {
+    position: absolute;
+    width: 1025px;
+    height: 688px;
+    left: 827px;
+    top: 4190px;
+    overflow: visible;
+}
+#Rectangle_5 {
+    fill: rgba(229,229,229,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_5 {
+    position: absolute;
+    overflow: visible;
+    width: 1110px;
+    height: 455px;
+    left: 681px;
+    top: 3331px;
+}
+#Image_15 {
+    position: absolute;
+    width: 467px;
+    height: 467px;
+    left: 106px;
+    top: 2879px;
+    overflow: visible;
+}
+#G_is_one_of_my_favorite_place_ {
+    opacity: 0.9;
+    left: 643px;
+    top: 3346px;
+    position: absolute;
+    overflow: visible;
+    width: 1164px;
+    height: 563px;
+    text-align: center;
+    font-family: Tempus Sans ITC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(58,50,50,1);
+}
+#Rectangle_6 {
+    fill: rgba(246,186,150,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: bevel;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_6 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 425px;
+    height: 145px;
+    left: 757px;
+    top: 2734px;
+}
+#Rectangle_7 {
+    fill: rgba(246,186,150,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: bevel;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 425px;
+    height: 145px;
+    left: 757px;
+    top: 1094px;
+}
+#ABOUT_ME_bk {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 733px;
+    top: 2767px;
+    position: absolute;
+    overflow: visible;
+    width: 455px;
+    height: 60px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 60px;
+    color: rgba(148,108,73,1);
+}
+#GALLERY_bl {
+    left: 675px;
+    top: 1127px;
+    position: absolute;
+    overflow: visible;
+    width: 571px;
+    height: 60px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 60px;
+    color: rgba(148,108,73,1);
+}
+#Rectangle_8 {
+    fill: rgba(246,186,150,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: bevel;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_8 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 425px;
+    height: 145px;
+    left: 1163px;
+    top: 3956px;
+}
+#Rectangle_10 {
+    fill: rgba(229,229,229,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 1110px;
+    height: 248px;
+    left: 681px;
+    top: 2939px;
+}
+#LOCATION_bo {
+    left: 973px;
+    top: 3989px;
+    position: absolute;
+    overflow: visible;
+    width: 788px;
+    height: 60px;
+    text-align: center;
+    font-family: Sitka Subheading;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(148,108,73,1);
+}
+#G_Beach_Resort_is_a_resort_loc {
+    opacity: 0.9;
+    left: 689px;
+    top: 2954px;
+    position: absolute;
+    overflow: visible;
+    width: 1083px;
+    height: 212px;
+    text-align: center;
+    font-family: Tempus Sans ITC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(58,50,50,1);
+}
+#Path_1 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_1 {
+    overflow: visible;
+    position: absolute;
+    width: 640px;
+    height: 1px;
+    left: 1074px;
+    top: 3073px;
+    transform: matrix(1,0,0,1,0,0);
+}

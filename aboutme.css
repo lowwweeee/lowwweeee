@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;  
+  overflow: hidden;
+  background-color: #62492F;
+}
+li {
+  float: right;
+}
+li a {
+  display:grid;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 20px;
+  text-decoration:black;
+  font-family: 'Segoe UI';
+  position:sticky;
+}

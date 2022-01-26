@@ -1,0 +1,81 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+    overflow: hidden;
+}
+li {
+    float: right;
+}
+li a {
+    display:grid;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    text-decoration:white;
+    font-family: 'Segoe UI';
+    position:sticky;
+}
+  .fd{
+   font-size: 250PX;
+   font-family: Lato Hairline;
+   color: #FFFFFF;
+   text-align: center;
+   transform: translate(0%, 30%);
+}
+.food{
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+.pizza{
+  position: absolute;
+  top: 1200px;
+  left:-490px;
+}
+.burgir{
+  position: absolute;
+  top:2250px;
+  left:0px;
+}
+.spag{
+  position: absolute;
+  top:3450px;
+  left:0px;
+}
+.logo{
+  top: 0px;
+  left:0px;
+  position: absolute;
+}
+.piz{
+  top: 1250px;
+  left:1300px;
+  position: absolute;
+}
+.tex1{
+  top: 1450px;
+  left:1000px;
+  position: absolute;
+}
+.burg{
+  top: 2300px;
+  left:130px;
+  position: absolute;
+}
+.tex2{
+  top: 2450px;
+  left:20px;
+  position: absolute;
+}
+.spaget{
+  top: 3550px;
+  left:1100px;
+  position: absolute
+}
+.spagetext{
+  top: 3750px;
+  left:1000px;
+  position: absolute
+}

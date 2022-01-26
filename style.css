@@ -1,0 +1,93 @@
+body{
+  background-image: url("me.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: inherit;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;  
+  overflow: hidden;
+}
+li {
+  float: right;
+}
+li a {
+  display:grid;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 20px;
+  text-decoration:white;
+  font-family: 'Segoe UI';
+  position:sticky;
+}
+.logo img{
+  float: left;
+  width: 300px;
+  height: auto;
+  position: absolute;
+}
+.quote{
+  position: absolute;
+  top: 110%;
+  text-align: center;
+  left: 40%;
+  font-size: 30px;
+  font-family:'Times New Roman';
+}
+.one{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  transform: translate(-20%, 40%);
+}
+.two{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  left:-20%;
+  transform: translate(-160%, 25%);
+}
+.three{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  left:5%;
+  transform: translate(210%, 25%);
+}
+.fourth{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  left:5%;
+  transform: translate(210%, 145%);
+}
+.fifth{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  left:5%;
+  transform: translate(75%, 145%);
+}
+.sixth{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  left:5%;
+  transform: translate(-75%, 145%);
+}
+.seventh{
+  position: absolute;
+  height: auto;
+  max-width: 80%;
+  left:5%;
+  transform: translate(-195%, 145%);
+}
+.qt{
+  position: absolute;
+  bottom: 1px;
+  top:1600%;
+  left: -70%;
+}
